@@ -4,6 +4,14 @@ hack package
 Submodules
 ----------
 
+hack.bar module
+---------------
+
+.. automodule:: hack.bar
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
 hack.foo module
 ---------------
 

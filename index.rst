@@ -6,6 +6,10 @@
 Welcome to hack's documentation!
 ================================
 
+::
+
+    nosetests --verbose --with-coverage --with-doctest
+
 Contents:
 
 .. toctree::
