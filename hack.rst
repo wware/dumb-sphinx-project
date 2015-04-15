@@ -1,30 +1,28 @@
 hack package
 ============
 
-Submodules
-----------
 
-hack.bar module
----------------
+hack
+----
+
+.. automodule:: hack
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
+hack.bar
+--------
 
 .. automodule:: hack.bar
     :members:
     :undoc-members:
     :show-inheritance:
 
-hack.foo module
----------------
+hack.foo
+--------
 
 .. automodule:: hack.foo
-    :members:
-    :undoc-members:
-    :show-inheritance:
-
-
-Module contents
----------------
-
-.. automodule:: hack
     :members:
     :undoc-members:
     :show-inheritance:
